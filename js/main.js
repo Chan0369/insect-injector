@@ -1,4 +1,5 @@
 // Create your variable here, name it `insects`
+var insects = ['Ant Nest Beetle', 'Dung Beetle', 'Stag Beetle', 'Tortoise Beetle'];
 
 
 // ##########################################################
